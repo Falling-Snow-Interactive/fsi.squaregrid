@@ -1,0 +1,17 @@
+{
+  "name": "com.fallingsnowinteractive.rectgrid",
+  "version": "0.0.1",
+  "displayName": "FSI Rect Grid",
+  "description": "Package for rect grid.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Grid",
+    "Rect"
+  ],
+  "author": {
+    "name": "Kira Dinan",
+    "email": "kiradinan.dev@gmail.com"
+  },
+  "hideInEditor": false
+}
